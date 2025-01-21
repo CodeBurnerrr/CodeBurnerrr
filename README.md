@@ -12,9 +12,6 @@
   <a href="https://visualizealgo.vercel.app/" target="_blank" style="font-size: 18px; color: #4e9af1; font-weight: bold;">
     Sorting Visualizer
   </a>
-</p>
-
-<p align="left">
   <span style="font-size: 16px; color: #ffcc00;">🌱 Learning: Solidity</span><br>
   <span style="font-size: 16px; color: #ffcc00;">💬 Ask me about MERN Stack</span><br>
   <span style="font-size: 16px; color: #ffcc00;">📫 Reach me at: <a href="mailto:d4dhruv852004@gmail.com" style="color: #ffcc00;">d4dhruv852004@gmail.com</a></span><br>
