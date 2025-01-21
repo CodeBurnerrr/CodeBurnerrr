@@ -39,7 +39,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" background-color="blue">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,django,express,nodejs,bootstrap,css3,git,github,html5,mongodb,postgresql,postman,redux,tailwindcss,vite" alt="Tech Stack" height="100" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,django,express,nodejs,bootstrap,git,github,mongodb,postgresql,postman,redux,tailwindcss,vite" alt="Tech Stack" height="100" />
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
