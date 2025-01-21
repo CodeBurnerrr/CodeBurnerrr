@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv Mehta</h1>
-<h2 align="center">A passionate Fullstack Developer from India</h2>
+<h1 align="center">Hi 👋, I'm Dhruv Mehta <br> A passionate Fullstack Developer from India</h1>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CodeBurnerrr/count.svg?" alt="Profile views" />
@@ -7,9 +7,10 @@
 <br>
 <br>
 
-<p align="center">
+<p align="left">
+  🔭 Currently working on 
   <a href="https://visualizealgo.vercel.app/" target="_blank" style="font-size: 18px; color: #4e9af1; font-weight: bold;">
-    🔭 Currently working on Sorting Visualizer
+    Sorting Visualizer
   </a>
 </p>
 
