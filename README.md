@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <span style="font-size: 16px; color: #ffcc00;">🌱 Learning: Solidity</span><br>
   <span style="font-size: 16px; color: #ffcc00;">💬 Ask me about MERN Stack</span><br>
   <span style="font-size: 16px; color: #ffcc00;">📫 Reach me at: <a href="mailto:d4dhruv852004@gmail.com" style="color: #ffcc00;">d4dhruv852004@gmail.com</a></span><br>
