@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Mehta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CodeBurnerrr/count.svg?"  />
 </div>
-
-###
 
 - 🔭 I’m currently working on [Sorting Visualizer](https://visualizealgo.vercel.app/)
 
@@ -17,8 +14,6 @@
 - 📫 How to reach me **d4dhruv852004@gmail.com**
 
 - ⚡ Fun fact **I break code faster than I write it (it's a superpower, I promise)**
-
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburnerrr" alt="codeburnerrr" /></a> </p>
@@ -78,18 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeBurnerrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeBurnerrr/CodeBurnerrr/output/snake.svg" alt="Snake animation" />
 
-###
 
-<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeburnerrr&show_icons=true&locale=en" alt="codeburnerrr" /></p></center>
