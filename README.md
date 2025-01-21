@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeBurnerrr/CodeBurnerrr/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CodeBurnerrr/output/snake.svg" alt="Snake animation" />
 </p>
