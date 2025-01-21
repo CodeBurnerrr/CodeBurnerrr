@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Mehta</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h2 align="center">A passionate Fullstack Developer from India</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CodeBurnerrr/count.svg?" alt="Profile views" />
 </div>
+<br>
+<br>
 
 <p align="center">
   <a href="https://visualizealgo.vercel.app/" target="_blank" style="font-size: 18px; color: #4e9af1; font-weight: bold;">
